@@ -1,0 +1,7 @@
+*__pycache__*
+data/
+models/
+application_data/
+Siamese_Model.pth
+training_checkpoints/
+.venv/
