@@ -1,0 +1,11 @@
+torch
+torchinfo
+torchmetrics
+opencv-python
+numpy
+matplotlib
+os
+random
+kagglehub
+shutil
+uuid
